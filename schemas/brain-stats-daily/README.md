@@ -1,5 +1,9 @@
 # Brain Stats Daily + Heatmap RPCs
 
+![Community Contribution](https://img.shields.io/badge/OB1_COMMUNITY-Approved_Contribution-2ea44f?style=for-the-badge&logo=github)
+
+**Created by [@alanshurafa](https://github.com/alanshurafa)**
+
 > Adds server-side daily-bucket aggregation RPCs so dashboard heatmaps work over multi-year windows without hitting PostgREST's default row cap.
 
 ## What It Does
